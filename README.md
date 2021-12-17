@@ -1,5 +1,5 @@
 # softtek-ejemplo-clase-02
 asdasdasdsaasdasdasd
 Probando github
-Cambio de README desde la web
+asdasdasd
 nuevo cambio actividad 3
